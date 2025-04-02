@@ -106,7 +106,7 @@ $db['default'] = array(
 
 $db['prod'] = array(
 	'dsn'	=> '',
-	'hostname' => '5.175.139.118',
+	'hostname' => 'localhost',
 	'username' => 'cald_certificate',
 	'password' => '~^S@&PAv0e7-',
 	'database' => 'cald_certificate',
